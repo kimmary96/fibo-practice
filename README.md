@@ -1,10 +1,13 @@
 # fibo-practice
 Fibonachi Sequence with Recusion
 
-f(n) = { 0                    if n = 0
-       { 1                    if n = 1  
-       { F(n-1) + F(n-2)      if n > 1
-
+$$
+f(n) = \begin{cases}
+0 & \text{if } n = 0 \\
+1 & \text{if } n = 1 \\
+F(n-1) + F(n-2) & \text{if } n > 1
+\end{cases}
+$$
 
 ## Prerequisites
 - Python ^3.12
