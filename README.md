@@ -1,6 +1,10 @@
 # fibo-practice
 Fibonachi Sequence with Recusion
-<img width="210" height="67" alt="image" src="https://github.com/user-attachments/assets/d8c4fb42-7b35-4e05-be26-7db0d86ff964" />
+f(n) = \begin{cases}
+0 & \text{if } n = 0 \\
+1 & \text{if } n = 1 \\
+F(n-1) + F(n-2) & \text{if } n > 1
+\end{cases}
 
 
 ## Prerequisites
