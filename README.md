@@ -1,5 +1,13 @@
 # fibo-practice
-이 프로젝트는 git을 배우기 위해 생성되었습니다.
+Fibonachi Sequence with Recusion
+
+$$
+f(n) = \begin{cases}
+0 & \text{if } n = 0 \\
+1 & \text{if } n = 1 \\
+F(n-1) + F(n-2) & \text{if } n > 1
+\end{cases}
+$$
 
 ## Prerequisites
 - Python ^3.12
@@ -15,8 +23,7 @@ $ python fibo-first.py
 `$pip install -r requirements.txt`
 
 ## Features
-- Greeting
-- Counting
+- Fibonachi Sequence with Recusion
 
 ## Run Tests
 --INSERT
