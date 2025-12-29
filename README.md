@@ -1,5 +1,7 @@
 # fibo-practice
-이 프로젝트는 git을 배우기 위해 생성되었습니다.
+Fibonachi Sequence with Recusion
+<img width="210" height="67" alt="image" src="https://github.com/user-attachments/assets/d8c4fb42-7b35-4e05-be26-7db0d86ff964" />
+
 
 ## Prerequisites
 - Python ^3.12
