@@ -15,8 +15,7 @@ $ python fibo-first.py
 `$pip install -r requirements.txt`
 
 ## Features
-- Greeting
-- Counting
+- Fibonachi Sequence with Recusion
 
 ## Run Tests
 --INSERT
